@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Mitra",
+  "description": "AI-Powered Agricultural Intelligence Network and Digital Public Good for farmers featuring live weather forecasts, problem & solution guide, crop doctor, satellite radar, live rain & moisture animated layers, and farm ledger.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
